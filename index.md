@@ -1,4 +1,4 @@
-#Grant's First CS193 Homework
+# Grant's First CS193 Homework
 
 - Its pretty easy so far
 - its nice to have TAs as teachers
